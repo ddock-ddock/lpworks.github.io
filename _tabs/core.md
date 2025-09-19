@@ -13,7 +13,7 @@ LPWorks는 실시간으로 출자한 펀드의 정보를 제공하는 창구가 
 ## LPworks 기본 설정
 - GP가 LP에 공유하고 싶은 데이터를 선택할 수 있습니다.
 - 데이터가 존재하지만 GP에서 허락하지 않은 경우에는 아래와 같은 이미지가 표시됩니다. 
-  <img width="1497" height="606" alt="11" src="https://github.com/user-attachments/assets/41a689a9-99fc-42a2-95b5-d0408ee48031" />
+![[11.png]]
 
 - 데이터 조회를 원하시면 GP에 조회권한 수정을 요청하셔야 합니다. 
 
