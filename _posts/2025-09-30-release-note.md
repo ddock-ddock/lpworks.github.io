@@ -3,7 +3,7 @@ title: "[Release Note] 2025년 9월 30일 업데이트"
 author: dkdk.kr
 date: 2025-09-30 10:00:00 +0800
 categories:
-  - 설정
+  - 이전 버전
 tags:
   - release
   - update
