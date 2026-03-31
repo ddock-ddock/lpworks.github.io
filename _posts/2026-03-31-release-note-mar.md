@@ -1,7 +1,7 @@
 ---
 title: "[Release Note] 2026년 3월 31일 업데이트"
 author: dkdk.kr
-date: 2026-11-30 10:00:00 +0800
+date: 2026-03-31 10:00:00 +0800
 categories:
   - Release Note
 tags:
