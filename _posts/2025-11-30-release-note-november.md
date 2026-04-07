@@ -1,11 +1,10 @@
 ---
-title: "[Release Note] 2025년 11월 30일 업데이트"
+title: "[새로운 소식] 2025년 11월 30일 업데이트"
 author: dkdk.kr
 date: 2025-11-30 10:00:00 +0800
 categories:
-  - Release Note
+  - 새로운 소식
 tags:
-  - release
   - update
 render_with_liquid: true
 mermaid: false
